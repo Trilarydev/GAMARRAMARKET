@@ -288,7 +288,7 @@ SELECT * FROM PRODUCTO WHERE PREPRO <= 10;
 
 --20 Eliminar fIsicamente la categor?a Electrodomesticos.
 delete FROM CATEGORIA
-WHERE IDCAT = 205;
+WHERE IDCAT = 60;
 
 --Listar tabla categoria
 select * from CATEGORIA;  
