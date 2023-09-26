@@ -191,7 +191,7 @@ alter SESSION set nls_date_format='DD/MM/YYYY HH24:MI:SS';
 --9 Actualizar el número de celular de Mario Rodríguez Martínez por el número 922881101.
 UPDATE PERSONA
 SET CELPER = '922881101'
-WHERE DNIPER= '27952514';
+WHERE APEPER= 'Barrios Martinez';
 
 --10 El cliente de DNI 53298147 ya cuenta con número de celular es: 977226604
 UPDATE PERSONA
