@@ -28,19 +28,19 @@ INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER)
 INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
     VALUES ('87952514','Luisa','Guerra Ibarra','luisa.guerra@yahoo.com ','974422136','C',' 21/12/1988');
 INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
-    VALUES ('74142585','Pedro  Alberto ','Candela Valenzuela',' pedro.candela@gmail.com','94148525','C','30/06/1995');
+    VALUES ('74142585','Pedro Â Alberto ','Candela Valenzuela',' pedro.candela@gmail.com','94148525','C','30/06/1995');
 INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
     VALUES ('53298147','Angel Manuel',' Rojas Avila ',' angel.rojas@outlook.com','null','C',' 02/03/1975');
 INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
-    VALUES ('11453265','Hilario Fabiano','  Avila Huapaya ','null','985514326','C','02/08/2000');
+    VALUES ('11453265','Hilario Fabiano',' Â Avila Huapaya ','null','985514326','C','02/08/2000');
 INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
     VALUES ('75747218','Octavio Adan','Marquez Osorio','octavio.marquez@yahoo.es ','966223141','c','22/09/2000');
 INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
     VALUES ('55869321','Manolo Enrique ','Vasquez Saravia',' manolo.vasquez@outlook.es','966223141','C','22/09/2000');
 INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
-    VALUES ('41552567',' Genoveva','Orstiz Quispe','  genoveva.ortiz@outlook.es ','92564137','C','12/04/2003');
+    VALUES ('41552567',' Genoveva','Orstiz Quispe',' Â genoveva.ortiz@outlook.es ','92564137','C','12/04/2003');
 INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
-    VALUES ('49985471','Oscar César',' Quiroz Zavala','null','988223145','C','12/10/2004');
+    VALUES ('49985471','Oscar CÃ©sar',' Quiroz Zavala','null','988223145','C','12/10/2004');
 INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
     VALUES ('44992217','Veronica','Romero Vargas',' veronica.romero@yahoo.com','null','C','25/08/2002');
     
@@ -83,7 +83,7 @@ INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO)
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P08','Pack Johnnie Walkeren Black',119.75,'150','40');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
-    VALUES ('P09','Ron Barceló gran añejo',68.95,'150','40');
+    VALUES ('P09','Ron BarcelÃ³ gran aÃ±ejo',68.95,'150','40');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P10','Six pack cerveza en lata',25.55,'50','20');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
@@ -111,9 +111,9 @@ INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO)
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P22','Jabon para lavar Caricia 200G.',7.75,'90','30');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
-    VALUES ('P23','Lejía tradicional 18KG',24.75,'200','30');
+    VALUES ('P23','LejÃ­a tradicional 18KG',24.75,'200','30');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
-    VALUES ('P24','Jabon para lavar - Bolívar',6.8,'100','30');
+    VALUES ('P24','Jabon para lavar - BolÃ­var',6.8,'100','30');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P25','Pack de menestras de lenteja',14.5,'120','10');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
@@ -121,21 +121,21 @@ INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO)
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P27','Aceite de oliva extra virgen',32.5,'145','10');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
-    VALUES ('P28','Fideos tallarín 500G',3.9,'45','10');
+    VALUES ('P28','Fideos tallarÃ­n 500G',3.9,'45','10');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P29','Cremas de avellanas con cacao',7.8,'200','10');
-INSERT INTO PRODUCTO(CODPROD,NOMPRO,PREPRO,STOCKPRO,IDCATPRO) 
+INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P30','Harina de trigo sin preparar',8.1,'100','10');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P31','Maicena Universal 180GR',2.9,'85','10');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P32','Harina de maiz blanco',10.5,'100','10');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
-    VALUES ('P33','Leche condensada nestlé',6.2,'135','10');
+    VALUES ('P33','Leche condensada nestlÃ©',6.2,'135','10');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
-    VALUES ('P34','Duraznos en almíbar',13.6,'180','10');
+    VALUES ('P34','Duraznos en almÃ­bar',13.6,'180','10');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
-    VALUES ('P35','Chicharrón de cerdo',29.5,'165','20');
+    VALUES ('P35','ChicharrÃ³n de cerdo',29.5,'165','20');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
     VALUES ('P36','Apanado de pollo',37.95,'130','20');
 INSERT INTO PRODUCTO(CODPROD,NOMPROD,PREPRO,STOCKPRO,IDCATPRO) 
@@ -188,17 +188,17 @@ alter SESSION set nls_date_format='DD/MM/YYYY HH24:MI:SS';
 
 
 
---9 Actualizar el número de celular de Mario Rodríguez Martínez por el número 922881101.
+--9 Actualizar el nÃºmero de celular de Mario RodrÃ­guez MartÃ­nez por el nÃºmero 922881101.
 UPDATE PERSONA
 SET CELPER = '922881101'
 WHERE DNIPER= '27952514';
 
---10 El cliente de DNI 53298147 ya cuenta con número de celular es: 977226604
+--10 El cliente de DNI 53298147 ya cuenta con nÃºmero de celular es: 977226604
 UPDATE PERSONA
 SET CELPER = '977226604'
 WHERE DNIPER= '53298147'; 
 
---11 Eliminar lógicamente los clientes cuyo DNI son: 11453265, 15487922 y 49985471
+--11 Eliminar lÃ³gicamente los clientes cuyo DNI son: 11453265, 15487922 y 49985471
 UPDATE PERSONA
 SET ESTPER = 'I'
 WHERE DNIPER = '11453265';
@@ -228,7 +228,7 @@ WHERE DNIPER= '74142585';
 
 SELECT * FROM PERSONA WHERE DNIPER = '87952514' OR DNIPER = '55869321' OR DNIPER = '74142585';
 
---13 El cliente Oscar César Quiroz Zavala será reactivado y debemos actualizar su nuevo correo: oscar.quiroz@yahoo.es.
+--13 El cliente Oscar CÃ©sar Quiroz Zavala serÃ¡ reactivado y debemos actualizar su nuevo correo: oscar.quiroz@yahoo.es.
 UPDATE PERSONA
 SET ESTPER = 'A'
 WHERE DNIPER = '49985471';
@@ -246,13 +246,13 @@ SELECT * FROM PERSONA WHERE DNIPER = '49985471';
     INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
         VALUES ('15753595','Daniela','Solis Vargas','daniela.soliz@outlook.com','','C','09/11/1993');
     INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
-        VALUES ('76314895','Miltón Gregorio','Vásquez Iturrizaga','milton.gregorio@yahoo.eg','974815233','C','22/06/2004');
+        VALUES ('76314895','MiltÃ³n Gregorio','VÃ¡squez Iturrizaga','milton.gregorio@yahoo.eg','974815233','C','22/06/2004');
     INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
-        VALUES ('84725001','Verónica','Ancajima Araujo','veronica.ancajima@yahoo.com','','C','07/11/1980');
+        VALUES ('84725001','VerÃ³nica','Ancajima Araujo','veronica.ancajima@yahoo.com','','C','07/11/1980');
     INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
         VALUES ('11228514','Felicita','Marroquin Candela','felicita.marroquin@outlook.com','966001472','C','06/06/2006');
     INSERT INTO PERSONA (DNIPER,NOMPER,APEPER,EMAPER,CELPER,TIPPER,FECNACPER) 
-        VALUES ('51436952','Luhana','Ortiz Rodríguez','luhana.ortiz@outlook.com','960405017','V','25/11/1980');
+        VALUES ('51436952','Luhana','Ortiz RodrÃ­guez','luhana.ortiz@outlook.com','960405017','V','25/11/1980');
     COMMIT;
 SELECT * FROM PERSONA WHERE IDPER = '219' OR IDPER = '220' OR IDPER = '221' OR IDPER = '222' OR IDPER = '223' OR IDPER = '224';
 
