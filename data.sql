@@ -258,7 +258,7 @@ SELECT * FROM PERSONA WHERE IDPER = '219' OR IDPER = '220' OR IDPER = '221' OR I
 
 --15 Actualizar el precio de la Maicena Universal 180 GR a S/. 3.50 
 UPDATE  PRODUCTO
-SET PREPRO = '3,5'
+SET PREPRO = 3.5
 WHERE CODPROD = 'P31';
 
 --16 Actualizar producto Detergente Opal por Detergente Opal 1/2Kg. 
